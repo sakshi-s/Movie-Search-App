@@ -1,0 +1,25 @@
+{
+  "name": "movie-search-app",
+  "version": "1.0.0",
+  "description": "This is a website that takes a search term as an input and returns movies with that term using OMDb API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshi-s/Movie-Search-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakshi-s/Movie-Search-App/issues"
+  },
+  "homepage": "https://github.com/sakshi-s/Movie-Search-App#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
