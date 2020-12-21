@@ -1,7 +1,9 @@
 # Movie-Search-App
-This is a website that takes a search term as an input and returns movies with that term using OMDb API.
+This is a website that takes a search term as an input and returns movies with that term, using OMDb API.
 
-Steps to run the app:
+Check it out [here](https://movie-search-website123.herokuapp.com/) !
+
+### Steps to run the app locally: ###
 
 1. git clone https://github.com/sakshi-s/Movie-Search-App.git
 2. cd Movie-Search-App
